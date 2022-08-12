@@ -1,0 +1,9 @@
+^rrcompendium\.Rproj$
+^\.Rproj\.user$
+analysis
+^LICENSE\.md$
+^README\.Rmd$
+^README-.*\.png$
+^CONDUCT\.md$
+^CONTRIBUTING\.md$
+^runtime\.txt$
